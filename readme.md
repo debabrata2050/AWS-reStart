@@ -6,12 +6,16 @@ Welcome to the repository containing all the Knowledge Checks (KCs) and related 
 These materials are designed to reinforce the key concepts of each module, helping you solidify your understanding of AWS services. 
 The KCs are an essential part of the course, providing valuable practice for those aiming to prepare for the AWS Cloud Practitioner certification exam. 💡
 
-To know more about the AWS re/Start program, visit the official page: [AWS re/Start](https://aws.amazon.com/training/restart/)
+To know more about the AWS re/Start program, visit the official page: 👉 [AWS re/Start](https://aws.amazon.com/training/restart/)
 
 ## 📂 Contents:
 - **Knowledge Check (KC) questions** and their answers for each module ✅
 - **PDFs** covering relevant AWS re/Start course content for reference and study 📄
-- A comprehensive resource to simulate exam conditions and deepen your cloud knowledge 💻
+
+## 🛠️ Hands-On Labs  
+- For hands-on AWS labs, check out this amazing repo 👉 [AWS re/Start Labs](https://github.com/cbecerrae/aws-restart-labs)  
+- Explore beautifully organized labs to practice and sharpen your skills! 🚀
+
 
 ## 🔥 Extra Learning Resource: AWS General Immersion Day  
 <img src="https://github.com/user-attachments/assets/1392b56a-4808-447e-9e34-8fb87ff20522" alt="immersion_days_logo" width="128" height="128"> 
