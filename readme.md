@@ -1,5 +1,5 @@
 ![reStart-Email-Banner_option-1-1-1-1](https://github.com/user-attachments/assets/7af63e79-f383-4795-b097-575237691ff4)
-# AWS re/Start Course - Knowledge Checks & PDFs 📚☁️
+# AWS re/Start ☁️
 
 Welcome to the repository containing all the Knowledge Checks (KCs) and related PDFs for the AWS re/Start program! 🎓 
 
@@ -7,7 +7,7 @@ These materials are designed to reinforce the key concepts of each module, helpi
 The KCs are an essential part of the course, providing valuable practice for those aiming to prepare for the AWS Cloud Practitioner certification exam. 💡
 
 To know more about the AWS re/Start program, visit the official page <br>
-[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-000?style=flat&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/training/restart/)
+[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/training/restart/)
 
 ## 📂 Contents:
 - **Knowledge Check (KC) questions** and their answers for each module ✅
