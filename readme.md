@@ -6,7 +6,8 @@ Welcome to the repository containing all the Knowledge Checks (KCs) and related 
 These materials are designed to reinforce the key concepts of each module, helping you solidify your understanding of AWS services. 
 The KCs are an essential part of the course, providing valuable practice for those aiming to prepare for the AWS Cloud Practitioner certification exam. 💡
 
-To know more about the AWS re/Start program, visit the official page: 👉 [AWS re/Start](https://aws.amazon.com/training/restart/)
+To know more about the AWS re/Start program, visit the official page <br>
+[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-000?style=flat&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/training/restart/)
 
 ## 📂 Contents:
 - **Knowledge Check (KC) questions** and their answers for each module ✅
