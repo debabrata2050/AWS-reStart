@@ -4,7 +4,7 @@ This course is a part of a series of courses designed to give you a solid founda
 
 Visit 👉 [![AWS Educate](https://img.shields.io/badge/AWS_Educate-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/education/awseducate/)
 
-| AWS Badges                            | Logo |
+| Module                            | Badges |
 |---------------------------------------|---|
 | Getting Started with Storage          |   |
 | Getting Started with Compute          |   |
