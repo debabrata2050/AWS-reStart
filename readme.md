@@ -14,7 +14,7 @@ To know more about the AWS re/Start program, visit the official page <br>
 - **PDFs** covering relevant AWS re/Start course content for reference and study 📄
 
 ## 🛠️ Hands-On Labs  
-- For hands-on AWS labs, check out this amazing repo 👉 [AWS re/Start Labs](https://github.com/cbecerrae/aws-restart-labs)  
+- For hands-on AWS labs, check out this amazing repo 👉 [![AWS re/Start Labs](https://img.shields.io/badge/AWS_re%2FStart_Labs-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://github.com/cbecerrae/aws-restart-labs)  
 - Explore beautifully organized labs to practice and sharpen your skills! 🚀
 
 
