@@ -1,6 +1,8 @@
-# AWS Educate
+# AWS Educate 
 ### Build your cloud skills at your own pace, on your own time, and completely for free
 This course is a part of a series of courses designed to give you a solid foundation in cloud computing. Each course focuses on a specific domain of cloud computing.
+
+Visit 👉 [![AWS Educate](https://img.shields.io/badge/AWS_Educate-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/education/awseducate/)
 
 | AWS Badges                            | Logo |
 |---------------------------------------|---|
