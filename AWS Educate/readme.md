@@ -5,6 +5,8 @@ This course is a part of a series of courses designed to give you a solid founda
 For More Details 👇<br /> 
 [![AWS Educate](https://img.shields.io/badge/AWS_Educate-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/education/awseducate/)
 
+Though you can take any of the courses at any time, it is suggested that you take the courses in the following order
+
 | Module                            | Badges | Solution |
 |---------------------------------------|---|---|
 | 1. Getting Started with Storage          |   |   | 
