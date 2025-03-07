@@ -1,5 +1,5 @@
 # AWS Educate
-
+### Build your cloud skills at your own pace, on your own time, and completely for free
 This course is a part of a series of courses designed to give you a solid foundation in cloud computing. Each course focuses on a specific domain of cloud computing.
 
 | AWS Badges                            | Logo |
