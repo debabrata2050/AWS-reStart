@@ -19,10 +19,10 @@ To know more about the AWS re/Start program, visit the official page <br>
 
 
 ## 🔥 Extra Learning Resource:  
-<img src="https://github.com/user-attachments/assets/1392b56a-4808-447e-9e34-8fb87ff20522" alt="immersion_days_logo" width="128" height="128"> 
-<img src="https://github.com/user-attachments/assets/716b9d82-0363-4e7a-ab07-61aa94ed0165" alt="aws educate" width="128" height="128"> 
 
-Enhance your AWS skills with **AWS General Immersion Day**, a hands-on workshop covering foundational AWS concepts and best practices.  
-🔗 **Explore the workshop here:** [AWS General Immersion Day](https://catalog.workshops.aws/general-immersionday/en-US/)
 
+| Logo        | Name                                           | Description   | Link   |
+| :----------: | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | ---- |
+| <img src="https://github.com/user-attachments/assets/1392b56a-4808-447e-9e34-8fb87ff20522" alt="immersion_days_logo" width="128" height="128">  | AWS Immersion Day | hands-on workshop covering foundational AWS concepts and best practices | [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://catalog.workshops.aws/general-immersionday/en-US/)     |
+| <img src="https://github.com/user-attachments/assets/716b9d82-0363-4e7a-ab07-61aa94ed0165" alt="aws educate" width="128" height="128">             | AWS Educate | offers cloud computing resources and training for students and educators to build skills                                                               | [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://github.com/debabrata2050/AWS-reStart/blob/main/AWS%20Educate/readme.md)     |
 
