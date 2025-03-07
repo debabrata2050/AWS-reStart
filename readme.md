@@ -20,6 +20,8 @@ To know more about the AWS re/Start program, visit the official page <br>
 
 ## 🔥 Extra Learning Resource: AWS General Immersion Day  
 <img src="https://github.com/user-attachments/assets/1392b56a-4808-447e-9e34-8fb87ff20522" alt="immersion_days_logo" width="128" height="128"> 
+<img src="https://github.com/user-attachments/assets/4a34dee7-7530-4b8d-b62f-99896ff60193" alt="immersion_days_logo" width="128" height="128"> 
 
 Enhance your AWS skills with **AWS General Immersion Day**, a hands-on workshop covering foundational AWS concepts and best practices.  
 🔗 **Explore the workshop here:** [AWS General Immersion Day](https://catalog.workshops.aws/general-immersionday/en-US/)
+
