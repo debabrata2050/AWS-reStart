@@ -320,13 +320,15 @@ Monitor Resources: Use monitoring/observability services to record performance m
 
 Using Trade-offs: Identify where performance increases yield benefits (efficiency, UX). Understand patterns/services that improve performance (e.g., edge caching). Identify what can be traded (consistency, durability, space for time/latency). Evaluate impact of trade-offs (e.g., eventual consistency impact on users). Measure impact of improvements. Use strategies like caching, read replicas, sharding, compression, buffering/streaming.
 
-**Cost Optimization Pillar**
+***
+
+# Cost Optimization Pillar
 
 Focuses on avoiding unnecessary costs and achieving the lowest possible price while still meeting reliability, availability, and performance requirements.
 
 Involves trade-offs (e.g., speed to market vs. cost) and requires ongoing effort (Cloud Financial Management - CFM). Aims to maximize the economic benefits of the cloud.
 
-Cost Optimization Design Principles:
+## Cost Optimization Design Principles:
 
 - **Practice Cloud Financial Management (CFM)**: Dedicate time/resources to build capability in technology/usage management. Grow capability through knowledge, programs, processes.
 - **Adopt a Consumption Model**: Pay only for resources consumed; increase/decrease usage based on business needs (e.g., stop dev/test environments).
@@ -334,7 +336,7 @@ Cost Optimization Design Principles:
 - **Stop Spending on Undifferentiated Heavy Lifting**: Let AWS handle data center operations, OS/app management (via managed services) to focus on business value.
 - **Analyze and Attribute Expenditure**: Use cloud tools to track cost/usage and attribute IT costs to revenue streams/workload owners for ROI measurement and optimization opportunities.
 
-Best Practice Areas:
+## Best Practice Areas:
 
 **1\. Practice Cloud Financial Management (CFM)**:
 
@@ -373,7 +375,9 @@ Best Practice Areas:
 - Automate operations tasks to reduce manual effort and cost.
 - Decommission resources no longer needed.
 
-**Sustainability Pillar**
+***
+
+# Sustainability Pillar
 
 Focuses on minimizing the environmental impacts of running cloud workloads, especially energy consumption and efficiency.
 
@@ -383,7 +387,7 @@ Involves trade-offs and adheres to the shared responsibility model (AWS: sustain
 
 Driven by customer demand, regulations, employee demand, impact investing, and competitive positioning.
 
-Sustainability Design Principles:
+## Sustainability Design Principles:
 
 1. **Understand Your Impact**: Measure workload impact (incl. customer use, decommissioning), establish KPIs (e.g., resources/emissions per unit of work), model future impact, evaluate changes.
 2. **Establish Sustainability Goals**: Set long-term goals (e.g., reduce resources per transaction), model ROI, plan for growth with reduced impact intensity.
@@ -392,7 +396,7 @@ Sustainability Design Principles:
 5. **Use Managed Services**: Leverage shared services (e.g., AWS Cloud, Fargate, S3 Lifecycle, Auto Scaling) to maximize resource utilization and benefit from AWS's operational efficiencies.
 6. **Reduce Downstream Impact**: Minimize energy/resources required by customers to use your services (e.g., reduce need for device upgrades). Test impact on devices.
 
-Best Practice Areas:
+## Best Practice Areas:
 
 **1\. Region Selection**: Choose Regions based on business requirements and sustainability goals (considering carbon footprint).
 
