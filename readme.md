@@ -1,5 +1,6 @@
 ![reStart-Email-Banner_option-1-1-1-1](https://github.com/user-attachments/assets/7af63e79-f383-4795-b097-575237691ff4)
-# AWS re/Start ☁️
+
+# AWS re/Start ☁️ 
 
 Welcome to the repository containing all the Knowledge Checks (KCs) and related PDFs for the AWS re/Start program! 🎓 
 
@@ -9,8 +10,6 @@ The KCs are an essential part of the course, providing valuable practice for tho
 To know more about the AWS re/Start program, visit the official page <br>
 [![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/training/restart/)
 
-## 🌟 Found this repo useful? ![GitHub Repo stars](https://img.shields.io/github/stars/debabrata2050/AWS-reStart)
-Give us a ⭐ by clicking the **"Star"** button at the top-right of this page to show your support and help others discover these resources.
 
 ## 📂 Contents:
 - **Knowledge Check (KC) questions** and their answers for each module ✅
@@ -31,3 +30,5 @@ Give us a ⭐ by clicking the **"Star"** button at the top-right of this page to
 | <img src="https://github.com/user-attachments/assets/958d1b32-ca33-4d0b-8ad2-8807d7875ee1" alt="aws skill builder" width="128" height="128">             | AWS Skill Builder | Learn from AWS experts with 600+ free trainings, hands-on labs, AI simulations, and certification prep to advance your skills  | [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://skillbuilder.aws/)    |
 
 
+## 🌟 Found this repo useful?
+Give us a ⭐ by clicking the **"Star"** button at the top-right of this page to show your support and help others discover these resources.
