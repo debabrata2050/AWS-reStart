@@ -9,6 +9,9 @@ The KCs are an essential part of the course, providing valuable practice for tho
 To know more about the AWS re/Start program, visit the official page <br>
 [![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-000?style=for-the-badge&logo=amazonwebservices&logoColor=000&color=ff9900)](https://aws.amazon.com/training/restart/)
 
+## 🌟 Found this repo useful? ![GitHub Repo stars](https://img.shields.io/github/stars/debabrata2050/AWS-reStart)
+Give us a ⭐ by clicking the **"Star"** button at the top-right of this page to show your support and help others discover these resources.
+
 ## 📂 Contents:
 - **Knowledge Check (KC) questions** and their answers for each module ✅
 - **PDFs** covering relevant AWS re/Start course content for reference and study 📄
