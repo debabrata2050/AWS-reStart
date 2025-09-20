@@ -1,7 +1,7 @@
 ![reStart-Email-Banner_option-1-1-1-1](https://github.com/user-attachments/assets/7af63e79-f383-4795-b097-575237691ff4)
 
 # AWS re/Start ☁️ 
-![Last_Update : 05 2025](https://img.shields.io/badge/Last_Update-05--2025-brightgreen)
+![Last_Update : 09 2025](https://img.shields.io/badge/Last_Update-09--2025-brightgreen)
 <br><br>
 Welcome to the repository containing all the Knowledge Checks (KCs) and related PDFs for the AWS re/Start program! 🎓 
 <br><br>
