@@ -10,11 +10,6 @@
 
 ---
 
-[![Watch the video](https://www.dailymotion.com/thumbnail/video/x9sne20)](https://www.dailymotion.com/video/x9sne20)
-
-
-
-
 ---
 
 ## At-a-Glance Matrix 📊
