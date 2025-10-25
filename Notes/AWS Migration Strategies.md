@@ -10,6 +10,13 @@
 
 ---
 
+[![Watch the video](https://www.dailymotion.com/thumbnail/video/x9sne20)](https://www.dailymotion.com/video/x9sne20)
+
+
+
+
+---
+
 ## At-a-Glance Matrix 📊
 
 | Strategy | Nickname | App Changes | Speed to Cloud | Cost-Effect Potential | When It Shines |
