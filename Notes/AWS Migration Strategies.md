@@ -9,6 +9,9 @@
 - **Refactor/Re-architect** is powerful but **not ideal to do during a big wave**—migrate first, modernize later. 🛠️➡️🌐
 
 ---
+## 🎬 7 Rs of Cloud Migration : Video
+
+[![7 Rs of Cloud Migration](https://www.dailymotion.com/thumbnail/video/x9sne20)](https://www.dailymotion.com/video/x9sne20)
 
 ---
 
