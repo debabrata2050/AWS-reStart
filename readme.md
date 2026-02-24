@@ -1,3 +1,7 @@
+> 🚀 **Found a mistake or want to add something new?** Feel free to open an issue and we’ll get it sorted  
+> Give us a ⭐ by clicking the **"Star"** button at the top-right of this page to show your support and help others discover these resources.
+
+ 
 ![reStart-Email-Banner_option-1-1-1-1](https://github.com/user-attachments/assets/7af63e79-f383-4795-b097-575237691ff4)
 
 # AWS re/Start ☁️ 
